@@ -37,10 +37,7 @@ if(health.width<10){
      }
 
       
-     if(player.isTouching(this.ground)){
-        camera.y=this.ground.y;
-        health.y=this.ground.y-250
-    }
+ 
     
 
 
