@@ -45,7 +45,7 @@ display(){
        
 if(player.isTouching(this.ground)){
     camera.y=this.ground.y-220;
-    health.y=this.ground.y-470;
+    health.y=this.ground.y-460;
 }
 
 
